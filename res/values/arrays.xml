@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   	<string-array name="names">
+   		<item>张金金</item>
+   		<item>李雪莹</item>
+   		<item>张刘倩</item>
+   		<item>聂国章</item>
+   		<item>张里</item>
+   		<item>张里金</item>
+   		<item>孙金</item>
+   		<item>孙玉婷</item>
+   		<item>男神</item>
+   		<item>学霸</item>
+   	</string-array>
+ 
+
+</resources>
